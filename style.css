@@ -55,6 +55,8 @@ header > p{
     padding: 10px;
     margin: auto;
     text-shadow: 2px 2px 0px black;
+    background-image: url();
+    background-size: ;
 }
 header a {
     color: white;
